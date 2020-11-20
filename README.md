@@ -1,2 +1,2 @@
 # Tela-Inicial-Netflix
-Recriando a página inicial da Netflix
+Refazendo a página inicial da Netflix
